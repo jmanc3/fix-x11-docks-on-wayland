@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.31)
-set(project_name fix_x11_docks_on_wayland)
+set(project_name fix_x11_docks)
 
 project(${project_name})
 set(CMAKE_CXX_STANDARD 17)
